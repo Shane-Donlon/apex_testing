@@ -1,0 +1,30 @@
+/* ---------------------- */
+/* Comment Content        */
+/* ---------------------- */
+
+:root {
+  --fs-400: 1rem;
+  --fw-regualar: 400;
+}
+
+body {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 2rem;
+  color: black;
+}
+
+/* reminders */
+.container {
+  width: 80%;
+  max-width: 1200px;
+}
+
+p {
+  max-width: 75ch;
+}
+
+#chart {
+  max-width: 80%;
+  margin-inline: auto;
+  margin-top: 3em;
+}
