@@ -1,4 +1,4 @@
-const csvUrl = "../assets/data/modifiedData.csv";
+const csvUrl = "assets/data/modifiedData.csv";
 
 function parse_data(data) {
   let date_time_format_options = {
